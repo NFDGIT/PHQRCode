@@ -7,11 +7,14 @@
 //
 
 import UIKit
+import PHQRCode
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        PHQRCode.init()
         // Do any additional setup after loading the view, typically from a nib.
     }
 

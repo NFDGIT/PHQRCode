@@ -1,0 +1,16 @@
+PODS:
+  - PHQRCode (0.1.0)
+
+DEPENDENCIES:
+  - PHQRCode (from `../`)
+
+EXTERNAL SOURCES:
+  PHQRCode:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PHQRCode: 135adbaaf5f526aebda2cb4d6c12aabb9aaa025d
+
+PODFILE CHECKSUM: 51003734b10bc59ba7963f9d859305124fb7ea31
+
+COCOAPODS: 1.9.3
